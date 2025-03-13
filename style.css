@@ -267,7 +267,7 @@ a:hover {
   border-radius: 10px;
 }
 
-.card-top:first-child .card {
+.card:first-child .card-top {
   background-color: rgb(74, 174, 66);
 }
 
